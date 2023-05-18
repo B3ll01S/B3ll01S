@@ -1,7 +1,4 @@
-Olá,Me chamo Gabriel Duarte 
-
-
-- 🌱 Estudando HTML, CSS, JS
+🌱 Estudando HTML, CSS, JS
 
 
 
